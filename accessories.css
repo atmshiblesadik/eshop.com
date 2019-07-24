@@ -1,0 +1,52 @@
+.index-links div{
+  margin: 16px 16px 0;
+  width: calc(100%-32px);
+  height:100%;
+
+}
+.links-wrapper{
+  margin-left: 120px;
+}
+.index-boxlink-1{
+  width: 300px;
+  background-image: url(img/necklace-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+.index-boxlink-2{
+  width: 300px;
+  background-image: url(img/watches-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-3{
+  width: 300px;
+  background-image: url(img/sunglasses-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-4{
+  width: 300px;
+  background-image: url(img/shoes-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-5{
+  width: 300px;
+  background-image: url(img/perfumes-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+.index-boxlink-6{
+  width: 300px;
+  background-image: url(img/masks-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}

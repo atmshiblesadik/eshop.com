@@ -1,0 +1,50 @@
+.index-links div{
+  margin: 16px 16px 0;
+  width: calc(100%-32px);
+  height:100%;
+
+}
+.links-wrapper{
+  margin-left: 120px;
+}
+.index-boxlink-1{
+  width: 300px;
+  background-image: url(img/tshirt-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+.index-boxlink-2{
+  width: 300px;
+  background-image: url(img/shirt-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-3{
+  width: 300px;
+  background-image: url(img/pants-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+.index-boxlink-4{
+  width: 300px;
+  background-image: url(img/jackets-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-5{
+  width: 300px;
+  background-image: url(img/traditional-banner.jpeg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.index-boxlink-6{
+  width: 300px;
+  background-image: url(img/blazers-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}

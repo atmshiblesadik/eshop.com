@@ -1,0 +1,50 @@
+.index-links div{
+  margin: 16px 16px 0;
+  width: calc(100%-32px);
+  height:100%;
+
+}
+.links-wrapper{
+  margin-left: 120px;
+}
+.index-boxlink-1{
+  width: 300px;
+  background-image: url(img/boys-dress.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+.index-boxlink-2{
+  width: 300px;
+  background-image: url(img/girls-dress.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-3{
+  width: 300px;
+  background-image: url(img/kids-shoes.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+.index-boxlink-4{
+  width: 300px;
+  background-image: url(img/shalwar-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.index-boxlink-5{
+  width: 300px;
+  background-image: url(img/wedding-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.index-boxlink-6{
+  width: 300px;
+  background-image: url(img/l-jackets-banner.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
